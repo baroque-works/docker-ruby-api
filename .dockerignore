@@ -1,0 +1,6 @@
+.git
+.dockerignore
+.env
+rails-api/node_modules/
+rails-api/vendor/bundle/
+rails-api/tmp/
